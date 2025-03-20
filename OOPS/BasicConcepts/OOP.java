@@ -1,4 +1,4 @@
-package OOPS;
+package OOPS.BasicConcepts;
 
 public class OOP {
     public static void main(String[] args) {

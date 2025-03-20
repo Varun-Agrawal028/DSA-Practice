@@ -1,4 +1,4 @@
-package OOPS;
+package OOPS.BasicConcepts;
 
 public class GettersNSetters {
     public static void main(String[] args) {
