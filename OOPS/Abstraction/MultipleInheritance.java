@@ -17,10 +17,13 @@ interface Herbivore{
 }
 
 class Bear implements Carnivore, Herbivore{
+    
+    @Override
     public void eatsMeat(){
         System.out.println("Bear eats Meat");
     }
 
+    @Override
     public void eatsGrass(){
         System.out.println("Bear eats Grass");
     }

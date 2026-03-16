@@ -28,5 +28,7 @@ public class convertlettersToUppercase {
 
         System.out.println(toUpperCase(str));
 
+        sc.close();
+
     }
 }
